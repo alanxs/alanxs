@@ -1,7 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=alanxs&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hello ~ 👋
+
+- 🔭 I’m currently working on iOS App and PHP development. 
+
+- 🌱 I’m currently learning and sharing on [my blog](http://alanxx.com), welcome~
+
 
 <!--
-**alanxs/alanxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FicowShen/FicowShen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
